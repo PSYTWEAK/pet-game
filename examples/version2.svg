@@ -1,0 +1,27 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+<style>
+    .black { fill: black; }
+    .white { fill: white; }
+    .green { fill: #9DCB88; }
+    .dark-green { fill: #36AC69; }
+    .gray { fill: #414141; }
+  </style>
+  <rect fill="black" x="0" y="0" width="100" height="100" rx="5" ry="5" />
+  <text x="10" y="20" text-anchor="start" font-size="15" fill="white">❤️</text>
+  <text x="90%" y="20" text-anchor="end" font-size="15" fill="white">💀 6</text>  
+  <rect x="10" y="5" width="30" height="12" fill="black"></rect>
+  <g transform="translate(20, 20), scale(4)">
+  <path fill="#9DCB88" d="M2 4h1v1H2zM3 4h1v1H3zM4 4h1v1H4zM5 4h1v1H5zM6 4h1v1H6zM2 5h1v1H2zM3 5h1v1H3zM4 5h1v1H4zM5 5h1v1H5z"/>
+<path fill="#36AC69" d="M6 5h1v1H6z"/>
+<path fill="#414141" d="M2 6h1v1H2z"/>
+<path fill="#9DCB88" d="M3 6h1v1H3z"/>
+<path fill="#414141" d="M4 6h1v1H4z"/>
+<path fill="#9DCB88" d="M5 6h1v1H5zM6 6h1v1H6z"/>
+<path fill="#36AC69" d="M11 6h1v1h-1z"/>
+<path fill="#9DCB88" d="M2 7h1v1H2zM3 7h1v1H3zM4 7h1v1H4zM5 7h1v1H5zM6 7h1v1H6z"/>
+<path fill="#36AC69" d="M11 7h1v1h-1z"/>
+<path fill="#9DCB88" d="M5 8h1v1H5zM6 8h1v1H6zM7 8h1v1H7zM10 8h1v1h-1zM11 8h1v1h-1zM5 9h1v1H5zM6 9h1v1H6zM7 9h1v1H7z"/>
+<path fill="#36AC69" d="M8 9h1v1H8zM9 9h1v1H9z"/>
+<path fill="#9DCB88" d="M10 9h1v1h-1zM5 10h1v1H5zM6 10h1v1H6zM7 10h1v1H7zM8 10h1v1H8zM9 10h1v1H9zM10 10h1v1h-1zM6 11h1v1H6zM7 11h1v1H7zM8 11h1v1H8zM6 12h1v1H6zM8 12h1v1H8z"/>
+</g>
+</svg>
